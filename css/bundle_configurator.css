@@ -1,0 +1,960 @@
+.page {
+  margin: 0px;
+}
+
+.body {
+  margin: 0px;
+}
+
+.all-challenges .card {
+  position: relative;
+  margin: 0.3px 23px 0 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 55px;
+  box-sizing: border-box;
+}
+.all-challenges {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  box-sizing: border-box;
+}
+.all-challenges .frame-10168 {
+  position: relative;
+  margin-bottom: 32.7px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  box-sizing: border-box;
+}
+.all-challenges .header {
+  position: relative;
+  margin-bottom: 46px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 33px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.all-challenges .spacing {
+  opacity: 0.1;
+  position: absolute;
+  left: 50%;
+  bottom: 4px;
+  translate: -50% 0;
+  width: 1100px;
+  height: 10px;
+}
+.all-challenges .h-1 {
+  position: absolute;
+  left: 50%;
+  bottom: 20px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 1.1;
+  color: #000000;
+}
+.all-challenges .spacing-1 {
+  opacity: 0.1;
+  width: 1100px;
+  height: 20px;
+}
+.all-challenges .footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  box-sizing: border-box;
+}
+.all-challenges .card-1 {
+  position: relative;
+  margin: 0 20px 0.3px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 55px;
+  width: 204px;
+  box-sizing: border-box;
+}
+.all-challenges .card-2 {
+  position: relative;
+  margin: 0 19.5px 0.3px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 55px;
+  width: 204px;
+  box-sizing: border-box;
+}
+.all-challenges .card-3 {
+  position: relative;
+  margin: 27px 0 0.3px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 28px 0.5px 0 0;
+  width: 204.5px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.all-challenges .card-4 {
+  position: relative;
+  margin: 0 19px 0.3px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 55px;
+  width: 204px;
+  box-sizing: border-box;
+}
+.all-challenges .input {
+  position: absolute;
+  top: 199px;
+  right: 171px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.all-challenges .frame-17 {
+  border-radius: 5px;
+  border: 1px solid #BDBDBD;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 12px 11.8px 12px 14px;
+  width: 197px;
+  box-sizing: border-box;
+}
+.all-challenges .popular {
+  margin-right: 7.5px;
+  width: 150.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.1;
+  color: #000000;
+}
+.all-challenges .vector {
+  margin: 4.2px 0;
+  width: 11.2px;
+  height: 6.6px;
+}
+.all-challenges .sort-by {
+  margin: 13px 7.9px 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.1;
+  color: #000000;
+}
+.all-challenges .spacing-2 {
+  opacity: 0.1;
+  position: absolute;
+  top: 9.8px;
+  right: 0px;
+  width: 1100px;
+  height: 20px;
+}
+.all-challenges .spacing-3 {
+  margin-bottom: 15px;
+  width: 100%;
+  height: 100%;
+}
+.all-challenges .container {
+  position: relative;
+  margin-right: 2px;
+  display: flex;
+  flex-direction: row;
+  padding-right: 0px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.all-challenges .container-1 {
+  position: absolute;
+  left: 170px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-bottom: 13.7px;
+  width: 79px;
+  height: 133px;
+  box-sizing: border-box;
+}
+.all-challenges .container-2 {
+  background: #000000;
+  position: relative;
+  margin-right: 1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 34px 0 108px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.all-challenges .container-3 {
+  background: #000000;
+  width: 100%;
+}
+.all-challenges .menu {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 21px 0;
+  width: 65%;
+  left: 30%;
+  box-sizing: border-box;
+}
+.all-challenges .container-4 {
+  margin: 0 0 60px 194px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.all-challenges .challenge-wallpaper-21-mt-kilimanjaro {
+  opacity: 0.8;
+  position: absolute;
+  left: -86px;
+  top: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 375px;
+  height: 87.7px;
+  box-sizing: border-box;
+}
+.all-challenges .mt-kilimanjaro {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 375px;
+  height: 87.7px;
+  box-sizing: border-box;
+}
+.all-challenges .img-1 {
+  background: url('../resources/images/img14.png') 50% / cover no-repeat;
+  width: 200px;
+  height: 87.7px;
+}
+.all-challenges .product {
+  margin: 0 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.all-challenges .name {
+  margin: 0 6.9px 9px 6.9px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.2;
+  color: #000000;
+}
+.all-challenges .distance, .price {
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1;
+  color: #323232;
+}
+.all-challenges .distance {
+  margin: 0 16.9px 17.5px 17.9px;
+}
+.all-challenges .price {
+  margin: 16.9px 0;
+}
+
+.all-challenges .postcards {
+  opacity: 0.8;
+  margin-bottom: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--inter-14-font-family, 'Inter');
+  font-weight: var(--inter-14-font-weight, 400);
+  font-size: var(--inter-14-font-size, 14px);
+  line-height: var(--inter-14-line-height, 1.6);
+  color: #323232;
+}
+.all-challenges .streetview {
+  opacity: 0.8;
+  margin: 0 14px 0 16px;
+  overflow-wrap: break-word;
+  font-family: var(--inter-14-font-family, 'Inter');
+  font-weight: var(--inter-14-font-weight, 400);
+  font-size: var(--inter-14-font-size, 14px);
+  line-height: var(--inter-14-line-height, 1.6);
+  color: #323232;
+}
+.all-challenges .add-challenge {
+  border-radius: 5px;
+  background: #000000;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 9px 0;
+  width: 174px;
+  box-sizing: border-box;
+}
+.all-challenges button:hover {
+  /* border-radius: 5px; */
+  background-color: #BDBDBD;
+}
+.all-challenges .join-challenge {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #FFFFFF;
+}
+.all-challenges .medal-21-mt-kilimanjaro {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 203px;
+  height: 225px;
+}
+.all-challenges .kj {
+  background: url('../resources/images/kj.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: -10.5px;
+  right: 0px;
+  bottom: 10.5px;
+  height: 100%;
+}
+.all-challenges .rectangle-1 {
+  background: linear-gradient(180deg, #FFFFFF, rgba(255, 255, 255, 0));
+  position: absolute;
+  left: 50%;
+  top: 50px;
+  translate: -50% 0;
+  width: 204px;
+  height: 38px;
+}
+.all-challenges .ellipse {
+  position: absolute;
+  left: 15px;
+  top: 10.5px;
+  width: 173px;
+  height: 146px;
+}
+.all-challenges .rectangle-2 {
+  background: #000000;
+  position: relative;
+  margin-bottom: 71.5px;
+  width: 204px;
+  height: 87px;
+}
+.all-challenges .group-8 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.all-challenges .challenges {
+  margin-right: 10.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.438;
+  color: #FFFFFF;
+}
+.all-challenges .frame-3 {
+  margin: 9px 0 8px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 11px;
+  height: 6px;
+  box-sizing: border-box;
+}
+.all-challenges .vector-stroke {
+  width: 11px;
+  height: 6px;
+}
+.all-challenges .group-9 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.all-challenges .lotr {
+  margin-right: 8.6px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.438;
+  color: #FFFFFF;
+}
+.all-challenges .frame-4 {
+  margin: 7px 0 10px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 11px;
+  height: 6px;
+  box-sizing: border-box;
+}
+.all-challenges .vector-stroke-1 {
+  width: 11px;
+  height: 6px;
+}
+.all-challenges .group-10 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.all-challenges .merch {
+  margin-right: 8.7px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.438;
+  color: #FFFFFF;
+}
+.all-challenges .frame-5 {
+  margin: 7px 0 10px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 11px;
+  height: 6px;
+  box-sizing: border-box;
+}
+.all-challenges .vector-stroke-2 {
+  width: 11px;
+  height: 6px;
+}
+.all-challenges .group-11 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+
+.all-challenges .more {
+  margin-right: 8.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.438;
+  color: #FFFFFF;
+}
+.all-challenges .frame-6 {
+  margin: 7px 0 10px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 11px;
+  height: 6px;
+  box-sizing: border-box;
+}
+.all-challenges .vector-stroke-3 {
+  width: 11px;
+  height: 6px;
+}
+.all-challenges .corporate {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.438;
+  color: #FFFFFF;
+}
+.all-challenges .shop {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.438;
+  color: #FFFFFF;
+}
+.all-challenges .frame-7 {
+  margin: 2px 0 4px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 18px;
+  height: 17px;
+  box-sizing: border-box;
+}
+.all-challenges .frame-7 #total {
+  color: #000000;
+  background-color: #E0C26B;
+  border-radius: 50%;
+  /* margin-left: 15px; */
+  width: 20px;
+  height: 20px;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  font-weight: 600;
+  right: -15px;
+  top: 10px;
+
+}
+.all-challenges .vector-1 {
+  width: 18px;
+  height: 17px;
+}
+.all-challenges .top-bar {
+  background: #E0C26B;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10px 0 11px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.all-challenges .the-lord-of-the-rings-virtual-challenges-are-here {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1;
+  color: #000000;
+}
+.all-challenges .logo-no-tagline {
+  width: 79px;
+  height: 119.3px;
+}
+.all-challenges .rectangle-3630 {
+  background: #262626;
+  width: 100%;
+  height: 87px;
+}
+.all-challenges .frame-15 {
+  position: relative;
+  margin: 0 135.4px 32px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.all-challenges .about {
+  margin-bottom: 10px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.6;
+  color: #D7BE69;
+}
+.all-challenges .about-us {
+  margin-bottom: 10px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--inter-14-font-family, 'Inter');
+  font-weight: var(--inter-14-font-weight, 400);
+  font-size: var(--inter-14-font-size, 14px);
+  line-height: var(--inter-14-line-height, 1.6);
+  color: #FFFFFF;
+}
+.all-challenges .careers {
+  margin-bottom: 10px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--inter-14-font-family, 'Inter');
+  font-weight: var(--inter-14-font-weight, 400);
+  font-size: var(--inter-14-font-size, 14px);
+  line-height: var(--inter-14-line-height, 1.6);
+  color: #FFFFFF;
+}
+.all-challenges .our-causes {
+  margin-bottom: 10px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--inter-14-font-family, 'Inter');
+  font-weight: var(--inter-14-font-weight, 400);
+  font-size: var(--inter-14-font-size, 14px);
+  line-height: var(--inter-14-line-height, 1.6);
+  color: #FFFFFF;
+}
+.all-challenges .blog {
+  margin-bottom: 10px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--inter-14-font-family, 'Inter');
+  font-weight: var(--inter-14-font-weight, 400);
+  font-size: var(--inter-14-font-size, 14px);
+  line-height: var(--inter-14-line-height, 1.6);
+  color: #FFFFFF;
+}
+.all-challenges .media {
+  margin-bottom: 10px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--inter-14-font-family, 'Inter');
+  font-weight: var(--inter-14-font-weight, 400);
+  font-size: var(--inter-14-font-size, 14px);
+  line-height: var(--inter-14-line-height, 1.6);
+  color: #FFFFFF;
+}
+.all-challenges .support-center {
+  overflow-wrap: break-word;
+  font-family: var(--inter-14-font-family, 'Inter');
+  font-weight: var(--inter-14-font-weight, 400);
+  font-size: var(--inter-14-font-size, 14px);
+  line-height: var(--inter-14-line-height, 1.6);
+  color: #FFFFFF;
+}
+.all-challenges .frame-16 {
+  margin-right: 120.7px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.all-challenges .the-conqueror-offerings {
+  margin-bottom: 10px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.6;
+  color: #D7BE69;
+}
+.all-challenges .corporate-wellness {
+  margin-bottom: 10px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--inter-14-font-family, 'Inter');
+  font-weight: var(--inter-14-font-weight, 400);
+  font-size: var(--inter-14-font-size, 14px);
+  line-height: var(--inter-14-line-height, 1.6);
+  color: #FFFFFF;
+}
+.all-challenges .my-virtual-mission {
+  margin-bottom: 10px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--inter-14-font-family, 'Inter');
+  font-weight: var(--inter-14-font-weight, 400);
+  font-size: var(--inter-14-font-size, 14px);
+  line-height: var(--inter-14-line-height, 1.6);
+  color: #FFFFFF;
+}
+.all-challenges .the-conqueror-adventures {
+  margin-bottom: 10px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--inter-14-font-family, 'Inter');
+  font-weight: var(--inter-14-font-weight, 400);
+  font-size: var(--inter-14-font-size, 14px);
+  line-height: var(--inter-14-line-height, 1.6);
+  color: #FFFFFF;
+}
+.all-challenges .virtual-challenges {
+  margin-bottom: 10px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--inter-14-font-family, 'Inter');
+  font-weight: var(--inter-14-font-weight, 400);
+  font-size: var(--inter-14-font-size, 14px);
+  line-height: var(--inter-14-line-height, 1.6);
+  color: #FFFFFF;
+}
+.all-challenges .virtual-walking {
+  margin-bottom: 10px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--inter-14-font-family, 'Inter');
+  font-weight: var(--inter-14-font-weight, 400);
+  font-size: var(--inter-14-font-size, 14px);
+  line-height: var(--inter-14-line-height, 1.6);
+  color: #FFFFFF;
+}
+.all-challenges .virtual-race {
+  margin-bottom: 10px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--inter-14-font-family, 'Inter');
+  font-weight: var(--inter-14-font-weight, 400);
+  font-size: var(--inter-14-font-size, 14px);
+  line-height: var(--inter-14-line-height, 1.6);
+  color: #FFFFFF;
+}
+.all-challenges .virtual-running {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--inter-14-font-family, 'Inter');
+  font-weight: var(--inter-14-font-weight, 400);
+  font-size: var(--inter-14-font-size, 14px);
+  line-height: var(--inter-14-line-height, 1.6);
+  color: #FFFFFF;
+}
+.all-challenges .frame-21 {
+  margin-bottom: 84px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.all-challenges .frame-18 {
+  margin-bottom: 25px;
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  box-sizing: border-box;
+}
+.all-challenges .privacy-notice {
+  margin-bottom: 10px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.6;
+  color: #D7BE69;
+}
+.all-challenges .to-read-our-privacy-notice-including-our-gdpr-policy-please-click-here {
+  overflow-wrap: break-word;
+  font-family: var(--inter-14-font-family, 'Inter');
+  font-weight: var(--inter-14-font-weight, 400);
+  font-size: var(--inter-14-font-size, 14px);
+  line-height: var(--inter-14-line-height, 1.6);
+  color: #FFFFFF;
+}
+.all-challenges .frame-19 {
+  margin-right: 7.6px;
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  box-sizing: border-box;
+}
+.all-challenges .terms-of-service {
+  margin-bottom: 10px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.6;
+  color: #D7BE69;
+}
+.all-challenges .to-read-our-terms-of-service-click-here {
+  overflow-wrap: break-word;
+  font-family: var(--inter-14-font-family, 'Inter');
+  font-weight: var(--inter-14-font-weight, 400);
+  font-size: var(--inter-14-font-size, 14px);
+  line-height: var(--inter-14-line-height, 1.6);
+  color: #FFFFFF;
+}
+
+.all-challenges .challenge-wallpaper-02-inca-trai {
+  opacity: 0.8;
+  position: absolute;
+  left: -86px;
+  top: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 375px;
+  height: 87.7px;
+  box-sizing: border-box;
+}
+.all-challenges .img-11 {
+  background: url('../resources/images/img11.png') 50% / cover no-repeat;
+  width: 200px;
+  height: 87.7px;
+}
+.all-challenges .medal-02-inca-trail {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 203px;
+  height: 225px;
+}
+.all-challenges .it {
+  background: url('../resources/images/it.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: -4px;
+  right: 0px;
+  bottom: 4px;
+  height: 100%;
+}
+.all-challenges .frame-product {
+  border-radius: 5px;
+  border: 1px solid #D4D4D4;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 15px;
+  width: 204px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.all-challenges .challenge-wallpaper-39-berlin-wall {
+  opacity: 0.8;
+  position: absolute;
+  left: -86px;
+  top: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 375px;
+  height: 87.7px;
+  box-sizing: border-box;
+}
+.all-challenges .berlin-wall {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 375px;
+  height: 87.7px;
+  box-sizing: border-box;
+}
+.all-challenges .img-12 {
+  background: url('../resources/images/img13.jpeg') 50% / cover no-repeat;
+  width: 200px;
+  height: 87.7px;
+}
+.all-challenges .group {
+  margin: 0 2px 12px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.all-challenges .medal-39-berlin-wall {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 203px;
+  height: 225px;
+}
+.all-challenges .img {
+  background: url('../resources/images/img.png') 50% / cover no-repeat;
+  position: absolute;
+  left: -32px;
+  top: -38px;
+  width: 264.4px;
+  height: 293px;
+}
+
+.all-challenges .challenge-wallpaper-28-flower-route {
+  opacity: 0.8;
+  position: absolute;
+  left: -86px;
+  top: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 375px;
+  height: 87.7px;
+  box-sizing: border-box;
+}
+.all-challenges .flower-route {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 375px;
+  height: 87.7px;
+  box-sizing: border-box;
+}
+.all-challenges .img-13 {
+  background: url('../resources/images/img12.png') 50% / cover no-repeat;
+  width: 200px;
+  height: 87.7px;
+}
+.all-challenges .medal-28-flower-route {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 203px;
+  height: 170px;
+  box-sizing: border-box;
+}
+.all-challenges .flr {
+  background: url('../resources/images/flr.png') 50% / cover no-repeat;
+  width: 203px;
+  height: 170px;
+}
+.all-challenges .challenge-wallpaper-32-angkor-wat {
+  opacity: 0.5;
+  position: absolute;
+  left: -86px;
+  top: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 375px;
+  height: 87.7px;
+  box-sizing: border-box;
+}
+.all-challenges .angkor-wat {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 375px;
+  height: 87.7px;
+  box-sizing: border-box;
+}
+.all-challenges .img-14 {
+  background: url('../resources/images/img1.png') 50% / cover no-repeat;
+  width: 200px;
+  height: 87.7px;
+}
+.all-challenges .medal-32-angkor-wat {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 203px;
+  height: 225px;
+}
+.all-challenges .aw {
+  background: url('../resources/images/aw.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: -6px;
+  right: 0px;
+  bottom: 6px;
+  height: 100%;
+}
